@@ -1,0 +1,5 @@
+/Users/lee/141070/World/World/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/lee/141070/World/World/bin/Debug/World.exe.mdb
+/Users/lee/141070/World/World/bin/Debug/World.exe
+/Users/lee/141070/World/World/obj/x86/Debug/World.exe
+/Users/lee/141070/World/World/obj/x86/Debug/World.exe.mdb
