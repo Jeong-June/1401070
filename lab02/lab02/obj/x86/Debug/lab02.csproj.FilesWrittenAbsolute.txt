@@ -1,0 +1,5 @@
+/Users/lee/141070/lab02/lab02/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/lee/141070/lab02/lab02/bin/Debug/lab02.exe.mdb
+/Users/lee/141070/lab02/lab02/bin/Debug/lab02.exe
+/Users/lee/141070/lab02/lab02/obj/x86/Debug/lab02.exe
+/Users/lee/141070/lab02/lab02/obj/x86/Debug/lab02.exe.mdb
